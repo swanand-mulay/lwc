@@ -3,11 +3,11 @@
         "experimentalDecorators": true,
         "baseUrl": ".",
         "paths": {
-            "c/helloWorld": [
-                "helloWorld/helloWorld.js"
-            ],
             "c/eBikes": [
                 "eBikes/eBikes.js"
+            ],
+            "c/helloWorld": [
+                "helloWorld/helloWorld.js"
             ]
         }
     },
